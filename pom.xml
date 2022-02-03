@@ -9,9 +9,9 @@
         <relativePath /><!-- lookup parent from repository -->
     </parent>
     <groupId>com.ust</groupId>
-    <artifactId>my-app</artifactId>
+    <artifactId>reservation-system</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>resewrvation-system</name>
+    <name>Simple Reservation System</name>
 
     <properties>
         <java.version>17</java.version>
